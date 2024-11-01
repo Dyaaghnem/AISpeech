@@ -489,10 +489,6 @@ tokenizers==0.19.1
 toml==0.10.2
 tomli==2.0.2
 toolz==0.12.1
-torch @ https://download.pytorch.org/whl/cu121_full/torch-2.5.0%2Bcu121-cp310-cp310-linux_x86_64.whl
-torchaudio @ https://download.pytorch.org/whl/cu121_full/torchaudio-2.5.0%2Bcu121-cp310-cp310-linux_x86_64.whl
-torchsummary==1.5.1
-torchvision @ https://download.pytorch.org/whl/cu121_full/torchvision-0.20.0%2Bcu121-cp310-cp310-linux_x86_64.whl
 tornado==6.3.3
 tqdm==4.66.6
 traitlets==5.7.1
@@ -532,3 +528,7 @@ yarl==1.17.0
 yellowbrick==1.5
 yfinance==0.2.48
 zipp==3.20.2
+
+torch==2.0.1
+torchaudio==2.0.1
+torchvision==0.15.2
